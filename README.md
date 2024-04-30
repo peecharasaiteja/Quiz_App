@@ -1,11 +1,16 @@
 The application devloped aims to provide a platform for students to create, contribute to, and participate in quizzes. Here's a breakdown of the key components:
 
 Objective: The main goal of the app is to facilitate the quiz creation, sharing, and taking process for students.
+
 Technologies Used:
 Java 17: The programming language used for the backend logic and functionality.
+
 Spring Boot: A framework used to simplify the development of Java-based applications, particularly web applications.
+
 PostgreSQL: A powerful, open-source relational database management system used to store quiz data.
+
 Eclipse: An integrated development environment (IDE) used for writing, debugging, and testing the application code.
+
 Testing:
 Postman: A popular tool used for testing APIs. It allows you to send requests to your API endpoints and analyze the responses, ensuring that your API works as expected.
 Overall, with these technologies and tools, I have build a comprehensive platform for students to create, contribute to, and take quizzes, providing an interactive and engaging learning experience.
