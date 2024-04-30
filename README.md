@@ -19,18 +19,33 @@ Overall, with these technologies and tools, I have build a comprehensive platfor
 
 1. **postman request to get all question from the database**
    
+   
  ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/a932c489-cab9-4b68-887f-2faa5a128d80)
+ 
 
 2.**postman request to add a question into database**
+
+
 ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/379406eb-f07c-451d-a9a4-62d07de9c1ec)
 
+
 3.**postman request to create a quiz**
+
+
 ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/207e3b07-fa09-4450-9800-ad2bde20b398)
 
+
+
 4.**postman request to get a quiz**
+
+
 ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/e4f2231b-c8e6-4299-b30c-890d35f3f96e)
 
+
+
 5.**postman request to submit a quiz**
+
+
 
 ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/0ab31e1c-5fa8-4441-9400-5ee349cfb2e4)
 
