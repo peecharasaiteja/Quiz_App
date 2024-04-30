@@ -21,7 +21,7 @@ Overall, with these technologies and tools, I have build a comprehensive platfor
    
  ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/a932c489-cab9-4b68-887f-2faa5a128d80)
 
-2.**postman request to add a question into database **
+2.**postman request to add a question into database**
 ![image](https://github.com/peecharasaiteja/Quiz_App/assets/50437939/379406eb-f07c-451d-a9a4-62d07de9c1ec)
 
 3.**postman request to create a quiz**
